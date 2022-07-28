@@ -1,0 +1,1456 @@
+2022-06-17 14:52:56,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-17 14:53:17,333 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method UNDEFINED
+2022-06-17 14:53:17,366 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-17 14:53:23,838 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-17 14:53:23,853 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-17 14:53:31,258 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-18 13:15:47,763 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-18 13:15:57,753 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method UNDEFINED
+2022-06-18 13:15:57,769 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-18 13:16:17,101 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-18 13:16:17,115 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-18 13:16:26,941 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-21 13:58:55,951 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-21 13:59:10,794 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method UNDEFINED
+2022-06-21 13:59:10,820 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-21 13:59:18,043 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-21 13:59:18,058 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-21 13:59:25,402 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-25 22:57:05,055 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-25 22:57:21,763 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-25 22:57:21,837 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-25 22:57:30,461 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-25 22:57:30,497 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-25 22:57:38,167 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-26 20:08:38,195 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-26 20:08:54,640 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-26 20:08:54,676 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-26 20:09:07,947 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-26 20:09:07,965 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-26 20:09:22,093 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-26 20:10:12,760 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-26 20:10:27,401 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-26 20:10:27,437 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-26 20:10:42,007 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-26 20:10:42,025 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-26 20:10:56,161 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-26 20:23:36,508 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-26 20:23:52,404 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-26 20:23:52,466 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-26 20:24:05,720 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-26 20:24:05,748 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-26 20:24:19,153 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-27 15:46:24,685 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 15:46:44,423 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method UNDEFINED
+2022-06-27 15:46:44,469 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 15:47:00,687 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-27 15:47:00,721 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 15:47:15,790 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-27 15:52:34,394 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 15:52:51,265 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 15:52:51,343 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 15:53:06,642 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-27 15:53:06,676 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 15:53:20,846 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-06-27 15:57:47,084 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 15:58:04,426 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 15:58:04,591 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 15:58:18,742 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-27 15:58:18,760 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 15:58:34,906 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-27 16:27:42,530 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 16:28:30,555 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 16:28:30,664 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 16:28:44,909 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-27 16:28:44,929 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 16:28:59,251 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-27 16:51:14,526 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 16:52:03,442 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 16:52:03,733 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 16:52:18,128 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-27 16:52:18,157 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 16:52:32,744 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-27 16:59:23,351 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 17:00:12,286 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 17:00:12,395 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 17:00:28,649 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-27 17:00:28,683 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-27 17:00:42,636 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-27 22:07:20,426 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 22:08:10,652 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 22:08:10,808 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-27 22:08:26,003 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-27 22:11:00,131 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 22:11:46,960 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 22:13:44,884 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 22:14:36,037 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 22:24:34,820 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 22:25:24,764 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-27 22:32:45,502 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-27 22:33:08,566 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method PASSED
+2022-06-28 15:32:38,764 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-28 15:32:58,889 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer UNDEFINED
+2022-06-28 16:28:58,241 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-28 16:29:14,764 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer PASSED
+2022-06-28 16:29:40,831 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-28 16:29:52,539 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information UNDEFINED
+2022-06-28 16:32:36,252 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-28 16:33:13,773 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information PASSED
+2022-06-29 13:06:19,255 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-29 13:06:42,519 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method PASSED
+2022-06-29 13:06:42,566 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-29 13:07:00,865 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer PASSED
+2022-06-29 13:07:00,882 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-29 13:07:35,888 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information PASSED
+2022-06-29 13:14:39,289 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-29 13:15:00,879 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method PASSED
+2022-06-29 13:15:00,933 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-29 13:15:18,551 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer PASSED
+2022-06-29 13:15:18,585 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-29 13:15:36,424 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information PASSED
+2022-06-29 13:17:12,730 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-29 13:17:58,840 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method FAILED
+2022-06-29 13:17:58,898 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-29 13:18:23,767 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer FAILED
+2022-06-29 13:19:34,090 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-06-29 13:19:56,827 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method PASSED
+2022-06-29 13:19:56,882 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-06-29 13:20:13,191 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer PASSED
+2022-06-29 13:20:13,209 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-29 13:20:44,852 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information PASSED
+2022-06-29 13:21:27,526 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-06-29 13:22:00,822 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information FAILED
+2022-07-02 16:40:00,631 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Ttab to the cart started
+2022-07-02 16:40:17,721 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Ttab to the cart UNDEFINED
+2022-07-02 16:40:17,769 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-02 16:40:25,996 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-02 16:40:26,031 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-02 16:40:33,883 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-07-05 17:23:29,765 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-05 17:23:46,214 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-05 17:23:46,543 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-05 17:23:47,519 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-05 17:23:47,688 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-05 17:23:47,767 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-05 17:23:47,826 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-05 17:23:47,888 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-05 17:23:47,962 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-05 17:23:48,024 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-05 17:23:48,087 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-05 17:23:48,134 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-05 17:23:48,212 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-05 17:23:48,290 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-05 17:23:48,367 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-05 17:23:48,461 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-05 17:23:48,539 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-05 17:23:48,631 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-05 17:23:49,594 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 15:00:57,461 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 15:01:13,712 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 15:01:13,964 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 15:01:14,963 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 15:01:15,130 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 15:01:15,192 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 15:01:15,268 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 15:01:15,324 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 15:01:15,375 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 15:01:15,430 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 15:01:15,482 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 15:01:15,533 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 15:01:15,583 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 15:01:15,632 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 15:01:15,693 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 15:01:15,752 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 15:01:15,812 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 15:01:15,877 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 15:01:18,902 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 15:01:19,990 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 15:12:15,898 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 15:12:25,471 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 15:12:25,879 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 15:12:26,844 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 15:12:26,960 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 15:12:27,007 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 15:12:27,070 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 15:12:27,116 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 15:12:27,189 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 15:12:27,236 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 15:12:27,297 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 15:12:27,338 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 15:12:27,388 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 15:12:27,445 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 15:12:27,498 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 15:12:27,548 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 15:12:27,601 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 15:12:27,660 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 15:12:30,345 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 15:12:31,846 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 16:21:29,539 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 16:21:40,035 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:21:40,431 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:21:41,314 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:21:41,445 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:21:41,492 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:21:41,554 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:21:41,626 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:21:41,658 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:21:41,712 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:21:41,758 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:21:41,806 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:21:41,854 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:21:41,892 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:21:41,938 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:21:41,970 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:21:42,021 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:21:42,068 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:21:45,481 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:21:47,040 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 16:28:23,534 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 16:28:32,264 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:28:32,440 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:28:33,835 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:28:33,937 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:28:33,983 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:28:34,057 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:28:34,105 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:28:34,167 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:28:34,245 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:28:34,324 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:28:34,414 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:28:34,487 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:28:34,581 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:28:34,659 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:28:34,737 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:28:34,831 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:28:34,909 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:28:37,866 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:28:39,344 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 16:31:12,575 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 16:31:21,787 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:31:22,223 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:31:23,402 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:31:23,548 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:31:23,640 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:31:23,700 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:31:23,765 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:31:23,827 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:31:23,903 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:31:23,962 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:31:24,019 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:31:24,066 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:31:24,113 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:31:24,160 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:31:24,222 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:31:24,316 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:31:24,436 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:31:27,297 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:31:28,164 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 16:32:19,810 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 16:32:28,760 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:32:28,992 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:32:30,210 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:32:30,310 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:32:30,354 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:32:30,396 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:32:30,441 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:32:30,480 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:32:30,511 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:32:30,558 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:32:30,607 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:32:30,639 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:32:30,689 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:32:30,728 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:32:30,759 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:32:30,822 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:32:30,911 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:32:33,839 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:32:34,944 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart FAILED
+2022-07-06 16:36:06,578 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-06 16:36:15,709 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:36:15,954 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:36:17,130 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:36:17,327 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:36:17,424 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:36:17,508 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:36:17,597 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:36:17,666 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:36:17,760 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:36:17,838 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:36:17,916 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:36:18,010 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:36:18,088 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:36:18,189 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:36:18,264 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:36:18,342 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:36:18,420 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:36:21,394 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:36:22,092 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-06 16:36:22,942 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart PASSED
+2022-07-06 16:46:18,870 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-06 16:46:27,923 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:46:28,116 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:46:28,976 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:46:29,118 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:46:29,171 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:46:29,218 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:46:29,265 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:46:29,327 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:46:29,374 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:46:29,440 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:46:29,471 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:46:29,533 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:46:29,580 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:46:29,636 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:46:29,692 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:46:29,738 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:46:29,801 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:46:29,971 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-06 16:46:32,624 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-06 16:49:17,194 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-06 16:49:27,326 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-06 16:49:27,567 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-06 16:49:29,015 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-06 16:49:29,125 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-06 16:49:29,181 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-06 16:49:29,229 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-06 16:49:29,275 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-06 16:49:29,338 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-06 16:49:29,411 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-06 16:49:29,462 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-06 16:49:29,525 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-06 16:49:29,571 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-06 16:49:29,634 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-06 16:49:29,696 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-06 16:49:29,771 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-06 16:49:29,834 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-06 16:49:29,881 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-06 16:49:30,046 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-06 16:49:32,907 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-06 16:49:33,772 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-06 16:50:04,892 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-07 16:49:06,731 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-07 16:49:19,335 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 16:49:19,479 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 16:49:20,559 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 16:49:20,723 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 16:49:20,815 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 16:49:20,877 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 16:49:20,955 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 16:49:21,034 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 16:49:21,112 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 16:49:21,174 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 16:49:21,242 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 16:49:21,320 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 16:49:21,396 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 16:49:21,453 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 16:49:21,526 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 16:49:21,585 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 16:49:21,649 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 16:49:21,814 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-07 16:49:23,882 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-07 16:49:24,130 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-07 16:49:55,183 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-07 20:24:54,971 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-07 20:25:04,901 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 20:25:05,064 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 20:25:06,560 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 20:25:06,719 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 20:25:06,796 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 20:25:06,874 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 20:25:06,950 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 20:25:07,028 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 20:25:07,099 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 20:25:07,190 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 20:25:07,247 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 20:25:07,334 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 20:25:07,412 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 20:25:07,479 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 20:25:07,561 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 20:25:07,627 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 20:25:07,693 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 20:25:07,866 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-07 20:25:10,163 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-07 20:25:10,636 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-07 20:25:11,686 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart FAILED
+2022-07-07 20:26:42,335 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-07 20:26:51,665 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 20:26:51,820 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 20:26:52,664 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 20:26:52,761 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 20:26:52,814 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 20:26:52,864 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 20:26:52,910 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 20:26:52,946 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 20:26:52,995 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 20:26:53,029 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 20:26:53,086 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 20:26:53,126 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 20:26:53,160 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 20:26:53,212 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 20:26:53,243 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 20:26:53,293 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 20:26:53,343 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 20:26:53,442 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-07 20:26:56,254 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-07 20:26:56,884 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-07 20:26:57,533 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart! equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-07-07 20:26:58,063 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-07 20:27:37,596 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-07 20:27:46,389 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 20:27:46,521 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 20:27:48,009 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 20:27:48,181 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 20:27:48,263 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 20:27:48,352 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 20:27:48,401 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 20:27:48,436 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 20:27:48,495 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 20:27:48,535 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 20:27:48,606 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 20:27:48,670 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 20:27:48,737 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 20:27:48,798 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 20:27:48,875 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 20:27:48,944 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 20:27:49,018 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 20:27:51,392 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-07 20:28:23,143 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-07 22:31:58,843 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-07 22:32:08,304 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 22:32:08,471 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 22:32:09,472 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 22:32:09,590 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 22:32:09,641 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 22:32:09,687 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 22:32:09,732 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 22:32:09,774 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 22:32:09,821 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 22:32:09,863 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 22:32:09,918 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 22:32:09,965 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 22:32:10,008 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 22:32:10,048 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 22:32:10,087 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 22:32:10,129 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 22:32:10,199 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 22:32:13,088 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-07 22:32:45,203 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-07 22:41:10,780 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-07 22:41:20,466 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 22:41:20,632 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 22:41:21,353 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 22:41:21,453 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 22:41:21,495 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 22:41:21,538 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 22:41:21,583 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 22:41:21,626 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 22:41:21,663 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 22:41:21,697 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 22:41:21,733 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 22:41:21,772 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 22:41:21,809 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 22:41:21,850 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 22:41:21,886 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 22:41:21,925 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 22:41:21,967 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 22:41:24,341 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-07 22:41:30,312 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-07 22:42:08,330 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-07 22:42:17,128 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-07 22:42:17,275 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-07 22:42:18,217 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-07 22:42:18,352 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-07 22:42:18,896 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-07 22:42:18,972 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-07 22:42:19,057 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-07 22:42:19,134 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-07 22:42:19,209 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-07 22:42:19,285 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-07 22:42:19,360 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-07 22:42:19,438 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-07 22:42:19,510 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-07 22:42:19,585 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-07 22:42:19,655 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-07 22:42:19,730 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-07 22:42:19,806 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-07 22:42:22,343 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-07 22:42:53,909 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 17:19:33,683 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 17:19:50,105 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 17:19:50,296 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 17:19:51,887 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 17:19:52,193 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 17:19:52,354 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 17:19:52,487 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 17:19:52,635 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 17:19:52,710 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 17:19:52,810 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 17:19:52,880 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 17:19:52,952 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 17:19:53,033 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 17:19:53,116 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 17:19:53,162 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 17:19:53,217 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 17:19:53,302 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 17:19:53,362 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 17:19:57,092 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 17:20:30,572 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 19:36:38,951 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 19:36:48,944 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 19:36:49,159 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 19:36:50,244 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 19:36:50,436 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 19:36:50,511 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 19:36:50,591 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 19:36:50,776 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 19:36:50,870 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 19:36:50,929 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 19:36:51,003 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 19:36:51,066 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 19:36:51,115 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 19:36:51,167 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 19:36:51,216 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 19:36:51,265 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 19:36:51,316 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 19:36:51,400 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 19:36:53,991 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 19:36:56,392 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 19:59:20,273 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 19:59:30,149 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 19:59:30,328 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 19:59:31,476 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 19:59:31,651 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 19:59:31,728 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 19:59:31,801 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 19:59:31,878 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 19:59:31,955 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 19:59:32,023 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 19:59:32,093 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 19:59:32,172 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 19:59:32,236 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 19:59:32,299 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 19:59:32,373 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 19:59:32,462 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 19:59:32,552 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 19:59:32,645 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 19:59:35,299 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 19:59:38,154 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 20:13:16,856 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 20:13:25,017 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 20:13:25,240 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 20:13:26,340 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 20:13:26,501 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 20:13:26,586 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 20:13:26,655 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 20:13:26,742 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 20:13:26,807 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 20:13:26,878 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 20:13:26,942 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 20:13:27,004 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 20:13:27,069 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 20:13:27,133 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 20:13:27,197 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 20:13:27,261 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 20:13:27,328 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 20:13:27,394 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 20:13:29,931 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 20:13:31,569 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 20:19:15,949 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 20:19:25,941 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 20:19:26,085 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 20:19:27,236 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 20:19:27,451 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 20:19:27,599 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 20:19:27,712 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 20:19:27,832 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 20:19:27,916 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 20:19:27,986 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 20:19:28,052 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 20:19:28,130 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 20:19:28,198 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 20:19:28,259 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 20:19:28,320 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 20:19:28,380 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 20:19:28,442 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 20:19:28,506 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 20:19:30,991 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 20:19:34,178 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 20:20:32,790 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 20:20:42,204 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 20:20:42,344 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 20:20:43,152 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 20:20:43,301 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 20:20:43,378 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 20:20:43,448 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 20:20:43,544 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 20:20:43,643 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 20:20:43,713 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 20:20:43,781 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 20:20:43,854 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 20:20:43,920 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 20:20:43,984 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 20:20:44,043 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 20:20:44,102 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 20:20:44,178 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 20:20:44,271 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 20:20:46,881 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 20:20:48,629 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 20:26:33,963 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 20:26:42,803 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 20:26:42,979 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 20:26:44,115 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 20:26:44,280 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 20:26:44,361 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 20:26:44,437 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 20:26:44,519 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 20:26:44,616 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 20:26:44,690 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 20:26:44,758 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 20:26:44,820 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 20:26:44,883 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 20:26:44,944 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 20:26:45,006 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 20:26:45,066 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 20:26:45,126 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 20:26:45,217 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 20:26:47,759 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 20:26:50,784 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-08 22:24:44,284 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-08 22:24:53,935 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-08 22:24:54,165 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-08 22:24:55,038 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-08 22:24:55,206 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-08 22:24:55,282 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-08 22:24:55,341 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-08 22:24:55,419 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-08 22:24:55,480 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-08 22:24:55,548 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-08 22:24:55,614 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-08 22:24:55,675 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-08 22:24:55,727 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-08 22:24:55,774 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-08 22:24:55,819 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-08 22:24:55,865 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-08 22:24:55,910 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-08 22:24:55,955 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-08 22:24:58,292 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-08 22:25:00,729 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 14:25:38,944 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 14:25:52,724 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 14:25:52,905 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 14:25:53,686 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 14:25:53,870 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 14:25:53,952 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 14:25:54,023 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 14:25:54,086 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 14:25:54,151 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 14:25:54,202 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 14:25:54,263 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 14:25:54,322 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 14:25:54,368 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 14:25:54,416 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 14:25:54,457 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 14:25:54,498 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 14:25:54,548 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 14:25:54,609 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 14:25:56,804 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 14:25:58,510 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 17:03:13,903 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 17:03:23,562 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 17:03:23,789 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 17:03:24,951 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 17:03:25,089 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 17:03:25,178 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 17:03:25,237 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 17:03:25,299 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 17:03:25,362 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 17:03:25,440 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 17:03:25,502 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 17:03:25,565 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 17:03:25,633 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 17:03:25,687 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 17:03:25,750 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 17:03:25,828 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 17:03:25,906 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 17:03:25,984 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 17:03:28,689 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 17:03:30,674 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 19:00:44,479 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 19:00:57,284 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 19:00:57,469 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 19:00:58,236 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 19:00:58,394 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 19:00:58,455 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 19:00:58,509 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 19:00:58,568 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 19:00:58,632 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 19:00:58,682 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 19:00:58,738 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 19:00:58,799 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 19:00:58,857 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 19:00:58,913 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 19:00:58,968 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 19:00:59,014 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 19:00:59,068 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 19:00:59,120 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 19:01:01,580 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 19:01:04,316 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 19:02:20,713 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 19:02:30,759 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 19:02:30,935 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 19:02:31,750 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 19:02:31,875 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 19:02:31,945 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 19:02:32,000 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 19:02:32,066 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 19:02:32,149 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 19:02:32,209 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 19:02:32,279 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 19:02:32,340 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 19:02:32,394 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 19:02:32,446 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 19:02:32,496 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 19:02:32,548 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 19:02:32,633 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 19:02:32,727 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 19:02:35,233 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 19:02:37,850 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 20:36:04,167 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 20:36:14,917 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 20:36:15,141 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 20:36:16,029 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 20:36:16,230 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 20:36:16,330 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 20:36:16,424 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 20:36:16,554 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 20:36:16,615 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 20:36:16,678 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 20:36:16,740 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 20:36:16,803 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 20:36:16,881 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 20:36:16,937 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 20:36:17,004 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 20:36:17,049 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 20:36:17,134 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 20:36:17,225 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 20:36:19,946 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 20:36:22,196 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 20:53:15,868 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 20:53:25,215 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 20:53:25,410 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 20:53:27,008 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 20:53:27,211 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 20:53:27,297 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 20:53:27,370 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 20:53:27,446 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 20:53:27,525 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 20:53:27,598 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 20:53:27,666 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 20:53:27,740 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 20:53:27,809 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 20:53:27,878 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 20:53:27,960 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 20:53:28,059 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 20:53:28,152 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 20:53:28,246 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 20:53:30,598 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 20:53:33,312 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-09 20:59:44,376 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-09 20:59:54,347 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-09 20:59:54,530 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-09 20:59:55,264 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-09 20:59:55,399 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-09 20:59:55,472 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-09 20:59:55,538 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-09 20:59:55,600 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-09 20:59:55,671 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-09 20:59:55,732 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-09 20:59:55,789 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-09 20:59:55,846 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-09 20:59:55,899 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-09 20:59:55,953 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-09 20:59:56,008 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-09 20:59:56,057 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-09 20:59:56,113 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-09 20:59:56,206 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-09 20:59:58,631 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-09 21:00:00,690 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-10 13:04:25,048 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-10 13:04:38,022 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:04:38,177 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:04:39,019 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:04:39,158 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:04:39,244 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:04:39,305 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:04:39,372 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:04:39,437 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:04:39,510 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:04:39,573 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:04:39,639 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:04:39,703 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:04:39,771 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:04:39,823 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:04:39,875 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:04:39,932 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:04:39,987 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:04:42,472 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-10 13:04:45,555 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-07-10 13:08:26,382 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-10 13:08:36,286 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:08:36,464 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:08:37,576 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:08:37,807 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:08:37,923 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:08:38,024 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:08:38,125 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:08:38,198 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:08:38,268 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:08:38,349 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:08:38,424 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:08:38,487 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:08:38,551 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:08:38,614 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:08:38,676 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:08:38,746 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:08:38,845 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:08:41,599 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-10 13:08:43,771 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-10 13:08:44,460 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-10 13:09:28,910 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-10 13:09:38,495 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:09:38,675 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:09:39,474 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:09:39,587 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:09:39,640 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:09:39,690 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:09:39,748 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:09:39,800 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:09:39,847 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:09:39,895 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:09:39,948 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:09:39,992 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:09:40,034 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:09:40,080 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:09:40,127 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:09:40,236 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:09:40,325 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:09:43,562 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-10 13:09:44,243 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-10 13:09:44,850 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart PASSED
+2022-07-10 13:09:44,884 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-10 13:09:52,821 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:09:53,003 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:09:53,987 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:09:54,102 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:09:54,163 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:09:54,227 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:09:54,283 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:09:54,354 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:09:54,409 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:09:54,463 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:09:54,515 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:09:54,607 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:09:54,704 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:09:54,793 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:09:54,886 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:09:54,976 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:09:55,070 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:09:55,297 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-10 13:09:57,706 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-10 13:09:58,264 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-10 13:09:59,108 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart! equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-07-10 13:09:59,725 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-10 13:09:59,757 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-10 13:10:07,467 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:10:07,702 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:10:08,641 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:10:08,785 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:10:08,855 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:10:08,923 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:10:08,986 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:10:09,057 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:10:09,120 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:10:09,183 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:10:09,251 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:10:09,313 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:10:09,377 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:10:09,440 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:10:09,496 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:10:09,555 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:10:09,616 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:10:12,202 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-10 13:10:14,021 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-10 13:10:14,598 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-10 13:12:05,315 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-10 13:12:15,991 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:12:16,183 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:12:16,948 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:12:17,112 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:12:17,201 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:12:17,247 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:12:17,286 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:12:17,330 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:12:17,374 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:12:17,415 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:12:17,456 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:12:17,493 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:12:17,532 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:12:17,568 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:12:17,602 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:12:17,639 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:12:17,674 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:12:20,174 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-10 13:12:22,205 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-10 13:12:22,893 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-10 13:13:55,848 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-10 13:14:06,282 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-10 13:14:06,475 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-10 13:14:07,324 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-10 13:14:07,451 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-10 13:14:07,507 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-10 13:14:07,557 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-10 13:14:07,608 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-10 13:14:07,657 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-10 13:14:07,698 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-10 13:14:07,752 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-10 13:14:07,796 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-10 13:14:07,839 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-10 13:14:07,881 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-10 13:14:07,934 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-10 13:14:08,035 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-10 13:14:08,235 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-10 13:14:08,345 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-10 13:14:10,911 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-10 13:14:12,822 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-10 13:14:13,360 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-12 17:02:02,752 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-12 17:02:19,202 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart UNDEFINED
+2022-07-12 17:02:19,288 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-12 17:02:26,644 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison UNDEFINED
+2022-07-12 17:02:26,659 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-12 17:02:35,244 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-07-12 17:02:35,273 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-12 17:02:42,410 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2022-07-13 20:13:08,398 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-13 20:13:34,919 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-13 20:13:35,086 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-13 20:13:40,386 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-13 20:13:40,436 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-13 20:13:47,324 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-13 20:13:47,348 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-13 20:13:50,662 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 FAILED
+2022-07-14 23:43:30,708 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-14 23:43:44,277 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-14 23:43:44,451 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-14 23:43:45,946 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-14 23:43:46,419 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-14 23:43:46,513 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-14 23:43:46,609 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-14 23:43:46,697 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-14 23:43:46,790 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-14 23:43:46,888 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-14 23:43:46,973 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-14 23:43:47,057 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-14 23:43:47,141 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-14 23:43:47,221 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-14 23:43:47,309 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-14 23:43:47,423 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-14 23:43:47,509 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-14 23:43:47,589 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-14 23:43:54,033 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-14 23:43:55,823 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-14 23:43:56,589 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-14 23:43:56,670 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-14 23:44:09,270 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-14 23:59:33,854 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-14 23:59:43,421 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-14 23:59:43,572 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-14 23:59:44,433 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-14 23:59:44,660 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-14 23:59:44,734 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-14 23:59:44,800 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-14 23:59:44,873 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-14 23:59:44,939 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-14 23:59:45,016 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-14 23:59:45,088 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-14 23:59:45,152 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-14 23:59:45,219 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-14 23:59:45,291 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-14 23:59:45,356 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-14 23:59:45,435 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-14 23:59:45,528 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-14 23:59:45,619 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-14 23:59:48,698 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-14 23:59:51,217 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-14 23:59:51,808 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-14 23:59:51,879 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 00:00:04,802 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 00:02:20,399 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 00:02:29,920 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 00:02:30,102 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 00:02:30,953 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 00:02:31,063 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 00:02:31,122 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 00:02:31,175 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 00:02:31,233 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 00:02:31,290 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 00:02:31,356 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 00:02:31,409 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 00:02:31,465 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 00:02:31,513 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 00:02:31,565 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 00:02:31,612 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 00:02:31,658 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 00:02:31,705 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 00:02:31,755 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 00:02:34,128 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 00:02:36,069 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 00:02:36,589 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 00:02:36,656 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 00:02:47,994 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 00:05:20,553 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 00:05:30,244 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 00:05:30,412 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 00:05:31,608 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 00:05:31,747 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 00:05:31,818 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 00:05:31,894 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 00:05:31,960 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 00:05:32,024 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 00:05:32,094 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 00:05:32,162 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 00:05:32,212 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 00:05:32,262 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 00:05:32,313 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 00:05:32,360 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 00:05:32,436 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 00:05:32,517 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 00:05:32,603 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 00:05:35,006 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 00:05:37,479 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 00:05:37,865 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 00:05:37,909 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 00:05:50,052 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 16:52:34,082 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 16:52:35,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 16:52:47,380 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 16:52:47,618 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 16:52:48,927 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 16:52:49,125 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 16:52:50,082 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 16:52:50,213 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 16:52:50,323 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 16:52:50,370 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 16:52:50,417 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 16:52:50,456 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 16:52:50,495 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 16:52:50,536 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 16:52:50,572 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 16:52:50,607 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 16:52:50,643 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 16:52:50,676 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 16:52:50,708 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 16:52:50,744 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 16:52:50,781 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 16:52:51,314 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 16:52:51,550 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 16:52:51,754 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 16:52:51,840 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 16:52:51,922 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 16:52:51,994 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 16:52:52,059 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 16:52:52,238 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 16:52:52,318 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 16:52:52,394 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 16:52:52,460 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 16:52:52,511 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 16:52:52,560 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 16:52:52,614 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 16:52:52,663 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 16:52:54,415 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 16:52:56,186 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 16:52:56,542 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 16:52:56,594 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 16:52:56,680 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 16:52:58,194 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 16:53:00,681 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 16:53:00,775 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 16:53:19,563 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 16:53:21,121 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 16:53:23,314 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 16:53:24,007 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 16:56:11,564 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 16:56:21,178 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 16:56:21,358 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 16:56:22,124 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 16:56:22,300 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 16:56:22,388 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 16:56:22,450 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 16:56:22,513 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 16:56:22,591 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 16:56:22,664 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 16:56:22,723 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 16:56:22,785 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 16:56:22,864 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 16:56:22,926 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 16:56:22,989 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 16:56:23,051 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 16:56:23,125 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 16:56:23,186 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 16:56:25,622 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 16:56:27,367 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 16:56:27,844 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 16:56:27,907 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 16:56:38,955 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 16:56:39,371 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 16:57:21,328 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 16:57:30,107 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 16:57:30,280 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 16:57:31,582 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 16:57:31,816 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 16:57:31,895 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 16:57:31,959 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 16:57:32,022 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 16:57:32,073 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 16:57:32,135 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 16:57:32,190 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 16:57:32,253 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 16:57:32,315 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 16:57:32,362 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 16:57:32,425 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 16:57:32,487 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 16:57:32,550 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 16:57:32,597 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 16:57:35,050 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 16:57:36,680 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 16:57:37,247 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 16:57:37,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 16:57:48,894 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 16:57:49,010 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-15 16:57:49,855 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 19:29:37,919 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 19:29:47,816 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 19:29:48,055 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 19:29:48,943 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 19:29:49,101 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 19:29:49,168 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 19:29:49,247 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 19:29:49,325 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 19:29:49,387 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 19:29:49,434 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 19:29:49,503 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 19:29:49,550 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 19:29:49,597 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 19:29:49,644 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 19:29:49,712 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 19:29:49,752 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 19:29:49,813 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 19:29:49,853 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 19:29:52,853 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 19:29:55,041 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 19:29:55,528 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 19:29:55,608 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 19:30:07,327 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 19:30:07,444 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-15 19:30:08,334 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 19:44:44,737 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 19:44:54,001 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 19:44:54,190 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 19:44:55,798 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 19:44:55,976 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 19:44:56,074 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 19:44:56,152 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 19:44:56,262 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 19:44:56,356 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 19:44:56,434 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 19:44:56,512 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 19:44:56,590 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 19:44:56,692 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 19:44:56,771 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 19:44:56,849 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 19:44:56,938 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 19:44:57,016 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 19:44:57,110 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 19:44:59,506 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 19:45:01,523 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 19:45:02,040 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 19:45:02,092 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 19:45:13,807 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 19:45:14,010 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-15 19:45:17,955 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 19:45:52,301 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 19:46:00,938 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 19:46:01,117 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 19:46:01,832 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 19:46:01,938 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 19:46:01,985 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 19:46:02,041 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 19:46:02,088 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 19:46:02,134 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 19:46:02,181 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 19:46:02,242 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 19:46:02,288 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 19:46:02,335 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 19:46:02,366 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 19:46:02,423 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 19:46:02,455 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 19:46:02,502 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 19:46:02,548 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 19:46:04,906 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 19:46:06,615 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 19:46:07,142 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 19:46:07,225 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 19:46:18,539 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 19:46:18,681 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-15 19:46:22,694 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-15 19:47:34,767 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-15 19:47:46,010 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-15 19:47:46,196 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-15 19:47:47,147 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-15 19:47:47,347 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-15 19:47:47,452 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-15 19:47:47,541 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-15 19:47:47,637 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-15 19:47:47,713 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-15 19:47:47,807 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-15 19:47:47,909 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-15 19:47:48,001 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-15 19:47:48,072 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-15 19:47:48,167 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-15 19:47:48,236 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-15 19:47:48,314 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-15 19:47:48,392 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-15 19:47:48,486 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-15 19:47:50,804 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-15 19:47:53,079 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-15 19:47:53,653 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-15 19:47:53,704 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-15 19:48:05,355 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-15 19:48:05,445 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-15 19:48:08,863 - .\src\test\resources\input\log4j.properties -INFO - 0 item(s) - $0.00 equals to 0 item(s) - $0.00
+2022-07-15 19:48:09,463 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-15 21:00:33,804 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 21:00:45,124 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-15 21:02:25,869 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 21:03:05,626 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-15 21:05:45,048 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 21:05:56,008 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison UNDEFINED
+2022-07-15 22:20:30,747 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:20:43,422 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-15 22:24:02,806 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:24:13,194 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-15 22:24:14,301 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-15 22:25:04,265 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:25:15,294 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison FAILED
+2022-07-15 22:25:50,318 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:26:01,047 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-15 22:26:01,875 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-15 22:29:44,219 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:30:04,685 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-15 22:30:08,670 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-15 22:31:10,134 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 22:31:29,418 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-15 22:31:32,330 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-15 23:29:22,810 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-15 23:29:40,885 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-15 23:29:47,274 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-15 23:30:22,004 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-15 23:30:33,111 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-15 23:31:18,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-15 23:31:32,812 - .\src\test\resources\input\log4j.properties -INFO - You must login or create an account to save Sony VAIO to your wish list! equals to true
+2022-07-15 23:31:33,409 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-15 23:51:33,501 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-15 23:51:42,079 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list FAILED
+2022-07-15 23:52:07,910 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-15 23:52:29,806 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-16 21:23:45,763 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-16 21:24:17,547 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-16 21:24:19,657 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-16 21:24:26,220 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart FAILED
+2022-07-16 21:24:26,324 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-16 21:24:53,629 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-16 21:25:00,265 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-16 21:25:00,305 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-16 21:25:23,378 - .\src\test\resources\input\log4j.properties -INFO - You must login or create an account to save Sony VAIO to your wish list! equals to true
+2022-07-16 21:25:23,935 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-16 21:25:23,961 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-16 21:25:51,152 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-16 21:42:31,373 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-16 21:43:01,211 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-16 21:43:03,392 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-16 21:43:08,959 - .\src\test\resources\input\log4j.properties -INFO - 0 item(s) - $0.00 equals to 0 item(s) - $0.00
+2022-07-16 21:43:09,546 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-16 21:43:09,584 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-16 21:43:36,259 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-16 21:43:42,469 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-16 21:43:42,500 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-16 21:44:05,609 - .\src\test\resources\input\log4j.properties -INFO - You must login or create an account to save Sony VAIO to your wish list! equals to true
+2022-07-16 21:44:05,888 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-16 21:44:05,903 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-16 21:44:33,056 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-17 22:37:49,291 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-17 22:38:01,861 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change UNDEFINED
+2022-07-17 22:38:01,895 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 22:38:09,617 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays UNDEFINED
+2022-07-17 22:51:09,183 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-17 22:51:18,221 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-17 22:51:18,315 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 22:51:25,227 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! is equal to true
+2022-07-17 22:51:25,533 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 22:51:25,583 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-17 22:51:34,938 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Website
+2022-07-17 22:51:38,178 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Laptop & NoteBook tab
+2022-07-17 22:51:42,070 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all Laptop & NoteBook option
+2022-07-17 22:51:47,470 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MacBook item
+2022-07-17 22:51:49,614 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to Cart button
+2022-07-17 22:51:51,821 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-17 22:51:51,822 - .\src\test\resources\input\log4j.properties -INFO - User saw the message: 'Success: You have added MacBook to your shopping cart!'
+2022-07-17 22:51:53,941 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-17 22:51:53,942 - .\src\test\resources\input\log4j.properties -INFO - User saw the message '1 item(s) - $602.00'
+2022-07-17 22:51:56,153 - .\src\test\resources\input\log4j.properties -INFO - User clicked on cart option
+2022-07-17 22:51:59,386 - .\src\test\resources\input\log4j.properties -INFO - User clicked on red X button to remove the item from cart
+2022-07-17 22:51:59,525 - .\src\test\resources\input\log4j.properties -INFO - 0 item(s) - $0.00 equals to 0 item(s) - $0.00
+2022-07-17 22:51:59,962 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-17 22:52:22,745 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-17 22:52:32,031 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-17 22:52:32,105 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 22:52:39,808 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! is equal to true
+2022-07-17 22:52:40,100 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 23:38:47,991 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-17 23:38:59,053 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-07-17 23:39:01,290 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-07-17 23:39:04,165 - .\src\test\resources\input\log4j.properties -INFO - User chose Euro from dropdown
+2022-07-17 23:39:06,273 - .\src\test\resources\input\log4j.properties -INFO - Currency value changed to Euro
+2022-07-17 23:39:07,531 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-17 23:39:07,616 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 23:39:16,464 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-07-17 23:39:19,024 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping cart
+2022-07-17 23:39:21,232 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! is equal to true
+2022-07-17 23:39:23,018 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 23:43:42,027 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-07-17 23:43:52,939 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-07-17 23:43:55,176 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-07-17 23:43:57,974 - .\src\test\resources\input\log4j.properties -INFO - User chose Euro from dropdown
+2022-07-17 23:44:00,118 - .\src\test\resources\input\log4j.properties -INFO - Currency value changed to Euro
+2022-07-17 23:44:01,385 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change PASSED
+2022-07-17 23:44:01,530 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 23:44:11,073 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail website
+2022-07-17 23:44:13,703 - .\src\test\resources\input\log4j.properties -INFO - User clicked on shopping cart
+2022-07-17 23:44:15,914 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! is equal to true
+2022-07-17 23:44:17,692 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 23:47:15,539 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart started
+2022-07-17 23:47:27,015 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Website
+2022-07-17 23:47:30,263 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Laptop & NoteBook tab
+2022-07-17 23:47:34,079 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all Laptop & NoteBook option
+2022-07-17 23:47:40,122 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MacBook item
+2022-07-17 23:47:42,218 - .\src\test\resources\input\log4j.properties -INFO - User clicked add to Cart button
+2022-07-17 23:47:44,456 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook to your shopping cart! equals to true
+2022-07-17 23:47:44,457 - .\src\test\resources\input\log4j.properties -INFO - User saw the message: 'Success: You have added MacBook to your shopping cart!'
+2022-07-17 23:47:46,606 - .\src\test\resources\input\log4j.properties -INFO - 1 item(s) - $602.00 equals to 1 item(s) - $602.00
+2022-07-17 23:47:46,607 - .\src\test\resources\input\log4j.properties -INFO - User saw the message '1 item(s) - $602.00'
+2022-07-17 23:47:48,808 - .\src\test\resources\input\log4j.properties -INFO - User clicked on cart option
+2022-07-17 23:47:52,026 - .\src\test\resources\input\log4j.properties -INFO - User clicked on red X button to remove the item from cart
+2022-07-17 23:47:52,226 - .\src\test\resources\input\log4j.properties -INFO - 0 item(s) - $0.00 equals to 0 item(s) - $0.00
+2022-07-17 23:47:52,810 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from cart PASSED
+2022-07-17 23:47:52,888 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-07-17 23:48:02,864 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Website
+2022-07-17 23:48:06,140 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Laptop & NoteBook tab
+2022-07-17 23:48:09,951 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all Laptop & NoteBook option
+2022-07-17 23:48:13,229 - .\src\test\resources\input\log4j.properties -INFO - User clicked on product compatison icon on MacBook
+2022-07-17 23:48:16,423 - .\src\test\resources\input\log4j.properties -INFO - User clicked on product comparison icon on MacBook Air
+2022-07-17 23:48:19,595 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added MacBook Air to your product comparison! equals to true
+2022-07-17 23:48:22,194 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Product comparison link
+2022-07-17 23:48:25,307 - .\src\test\resources\input\log4j.properties -INFO - User should see Product Comparison Chart
+2022-07-17 23:48:25,784 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison PASSED
+2022-07-17 23:48:25,815 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-07-17 23:48:35,775 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Website
+2022-07-17 23:48:39,016 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Laptop & NoteBook tab
+2022-07-17 23:48:42,846 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all Laptop & NoteBook option
+2022-07-17 23:48:46,118 - .\src\test\resources\input\log4j.properties -INFO - User clicked on heart icon to add Sony Vaio laptop to wish list
+2022-07-17 23:48:49,291 - .\src\test\resources\input\log4j.properties -INFO - You must login or create an account to save Sony VAIO to your wish list! equals to true
+2022-07-17 23:48:49,660 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-17 23:48:49,691 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-17 23:48:59,508 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Website
+2022-07-17 23:49:02,737 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Laptop & NoteBook tab
+2022-07-17 23:49:06,572 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Show all Laptop & NoteBook option
+2022-07-17 23:49:12,609 - .\src\test\resources\input\log4j.properties -INFO - User clicked on MacBook Pro item
+2022-07-17 23:49:15,727 - .\src\test\resources\input\log4j.properties -INFO - User saw '$2,000.00' price tag was present on UI
+2022-07-17 23:49:17,062 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-21 15:44:33,496 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart started
+2022-07-21 15:44:52,887 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-21 15:44:55,125 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-21 15:44:58,932 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-21 15:45:01,160 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-21 15:45:01,245 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-21 15:45:01,336 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-21 15:45:01,419 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-21 15:45:01,503 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-21 15:45:01,582 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-21 15:45:01,674 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-21 15:45:01,765 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-21 15:45:01,849 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-21 15:45:01,929 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-21 15:45:02,012 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-21 15:45:02,097 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-21 15:45:02,185 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-21 15:45:02,264 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-21 15:45:04,504 - .\src\test\resources\input\log4j.properties -INFO - User clicked on ADD TO CART option on HP LP3065 item
+2022-07-21 15:45:07,531 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-21 15:45:09,723 - .\src\test\resources\input\log4j.properties -INFO - User clicked on add to Cart button
+2022-07-21 15:45:11,994 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added HP LP3065 to your shopping cart! equals to Success: You have added HP LP3065 to your shopping cart!
+2022-07-21 15:45:11,996 - .\src\test\resources\input\log4j.properties -INFO - User shown the message : 'Success: You have added HP LP3065 to your shopping cart!'
+2022-07-21 15:45:13,997 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP 3065 from Desktops Tab to the cart PASSED
+2022-07-21 15:45:14,079 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-21 15:45:23,809 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-21 15:45:26,014 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-21 15:45:29,647 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-21 15:45:31,822 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-21 15:45:31,919 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-21 15:45:31,980 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-21 15:45:32,045 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-21 15:45:32,108 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-21 15:45:32,173 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-21 15:45:32,232 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-21 15:45:32,293 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-21 15:45:32,351 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-21 15:45:32,412 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-21 15:45:32,479 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-21 15:45:32,541 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-21 15:45:32,601 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-21 15:45:32,667 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-21 15:45:34,910 - .\src\test\resources\input\log4j.properties -INFO - user clicked on add to cart button for Canon EOS 5D Camera
+2022-07-21 15:45:38,418 - .\src\test\resources\input\log4j.properties -INFO - user selected color red from dropdown
+2022-07-21 15:45:40,706 - .\src\test\resources\input\log4j.properties -INFO - User selected quantity of 1
+2022-07-21 15:45:42,931 - .\src\test\resources\input\log4j.properties -INFO - User clicked on add to Cart button
+2022-07-21 15:45:45,191 - .\src\test\resources\input\log4j.properties -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart! equals to Success: You have added Canon EOS 5D Camera to your shopping cart!
+2022-07-21 15:45:45,813 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-21 15:45:45,888 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-21 15:45:56,431 - .\src\test\resources\input\log4j.properties -INFO - User is on Retail Page
+2022-07-21 15:45:58,658 - .\src\test\resources\input\log4j.properties -INFO - User clicked on desktops tab
+2022-07-21 15:46:02,348 - .\src\test\resources\input\log4j.properties -INFO - user clicked on show all desktops
+2022-07-21 15:46:04,525 - .\src\test\resources\input\log4j.properties -INFO -  is present
+2022-07-21 15:46:04,607 - .\src\test\resources\input\log4j.properties -INFO - Desktops is present
+2022-07-21 15:46:04,687 - .\src\test\resources\input\log4j.properties -INFO - Apple Cinema 30" is present
+2022-07-21 15:46:04,777 - .\src\test\resources\input\log4j.properties -INFO - Canon EOS 5D Camera is present
+2022-07-21 15:46:04,852 - .\src\test\resources\input\log4j.properties -INFO - HP LP3065 is present
+2022-07-21 15:46:04,935 - .\src\test\resources\input\log4j.properties -INFO - HTC Touch HD is present
+2022-07-21 15:46:05,011 - .\src\test\resources\input\log4j.properties -INFO - iPhone is present
+2022-07-21 15:46:05,088 - .\src\test\resources\input\log4j.properties -INFO - iPod Classic is present
+2022-07-21 15:46:05,164 - .\src\test\resources\input\log4j.properties -INFO - MacBook is present
+2022-07-21 15:46:05,239 - .\src\test\resources\input\log4j.properties -INFO - MacBook Air is present
+2022-07-21 15:46:05,318 - .\src\test\resources\input\log4j.properties -INFO - Palm Treo Pro is present
+2022-07-21 15:46:05,400 - .\src\test\resources\input\log4j.properties -INFO - Product 8 is present
+2022-07-21 15:46:05,485 - .\src\test\resources\input\log4j.properties -INFO - Samsung SyncMaster 941BW is present
+2022-07-21 15:46:05,559 - .\src\test\resources\input\log4j.properties -INFO - Sony VAIO is present
+2022-07-21 15:46:09,738 - .\src\test\resources\input\log4j.properties -INFO - user clicked on canon EOS 5D camera item
+2022-07-21 15:46:11,947 - .\src\test\resources\input\log4j.properties -INFO - User clicked on write a review link
+2022-07-21 15:46:14,442 - .\src\test\resources\input\log4j.properties -INFO - user filled the review information
+2022-07-21 15:46:16,668 - .\src\test\resources\input\log4j.properties -INFO - User clicked on continue button
+2022-07-21 15:46:18,833 - .\src\test\resources\input\log4j.properties -INFO - Thank you for your review. It has been submitted to the webmaster for approval. equals to Thank you for your review. It has been submitted to the webmaster for approval.
+2022-07-21 15:46:19,426 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-21 15:58:43,639 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method started
+2022-07-21 15:59:26,833 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register as an Affiliate user with Cheque payment Method PASSED
+2022-07-21 15:59:26,888 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer started
+2022-07-21 16:00:08,929 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank transfer PASSED
+2022-07-21 16:00:08,968 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information started
+2022-07-21 16:00:46,764 - .\src\test\resources\input\log4j.properties -INFO - Scenario Edit your account information PASSED

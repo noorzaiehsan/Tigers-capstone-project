@@ -1,0 +1,641 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2376249900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail home page",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_is_on_retail_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2272294000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2452001800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4603973100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters username \u0027ja524@wix.com\u0027 and password \u002712345\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027ja524@wix.com\u0027",
+                  "offset": 21
+                },
+                {
+                  "val": "\u002712345\u0027",
+                  "offset": 50
+                }
+              ],
+              "location": "step.definitions.RetailStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2881998900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2131001400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be logged in to MyAccount Dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-21T19:58:43.219Z",
+        "before": [
+          {
+            "result": {
+              "duration": 8956628700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Register as an Affiliate user with Cheque payment Method",
+        "description": "",
+        "id": "retail-website;register-as-an-affiliate-user-with-cheque-payment-method",
+        "after": [
+          {
+            "result": {
+              "duration": 500900300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2700993700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user clicks on Register for an Affiliate account link",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7275002000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user fills affiliate form with below information",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_fills_affiliate_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "company",
+                  "website",
+                  "taxID",
+                  "paymentMethod",
+                  "payeeName"
+                ]
+              },
+              {
+                "cells": [
+                  "wix",
+                  "wix.com",
+                  "1233456",
+                  "cheque",
+                  "john doe"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2273548700,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User check on About us check box",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_check_on_about_us_check_box()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2816262800,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User click on continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_click_on_continue_button1()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2180159100,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user should see a success message",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_should_see_a_success_message1()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2166487500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail home page",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_is_on_retail_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2231322800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2550998400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4644003200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters username \u0027ja524@wix.com\u0027 and password \u002712345\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027ja524@wix.com\u0027",
+                  "offset": 21
+                },
+                {
+                  "val": "\u002712345\u0027",
+                  "offset": 50
+                }
+              ],
+              "location": "step.definitions.RetailStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2871999900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2104025700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be logged in to MyAccount Dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-21T19:59:26.881Z",
+        "before": [
+          {
+            "result": {
+              "duration": 7886686000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Edit your affiliate information from Cheque payment method to Bank transfer",
+        "description": "",
+        "id": "retail-website;edit-your-affiliate-information-from-cheque-payment-method-to-bank-transfer",
+        "after": [
+          {
+            "result": {
+              "duration": 481966300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2525985700,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user clicks on Edit your affiliate information link",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_Edit_Affiliate_info()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2193456600,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user clicks on Bank Transfer radio button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_bank_transfer_radio_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7454989100,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user fills Bank Information with below information",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_fills_bank_information_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "bankName",
+                  "abaNumber",
+                  "swiftCode",
+                  "accountName",
+                  "accountNumber"
+                ]
+              },
+              {
+                "cells": [
+                  "wells fargo",
+                  "123456",
+                  "321",
+                  "jd123",
+                  "654321"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2803249600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User clicks on Continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2121696300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User should see a success message",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_should_see_a_success_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test1"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2153174400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail home page",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_is_on_retail_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2230062200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on MyAccount",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_my_account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2603164700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on Login",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4511999300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters username \u0027ja524@wix.com\u0027 and password \u002712345\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027ja524@wix.com\u0027",
+                  "offset": 21
+                },
+                {
+                  "val": "\u002712345\u0027",
+                  "offset": 50
+                }
+              ],
+              "location": "step.definitions.RetailStepDefinitions.user_enters_username_and_password(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2829002500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user clicks on Login button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_clicks_on_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2184997400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be logged in to MyAccount Dashboard",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_should_be_logged_in_to_my_account_dashboard()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-21T20:00:08.963Z",
+        "before": [
+          {
+            "result": {
+              "duration": 6952275400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "Edit your account information",
+        "description": "",
+        "id": "retail-website;edit-your-account-information",
+        "after": [
+          {
+            "result": {
+              "duration": 570981400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3041998400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User click on Edit your account information link",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_click_on_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5756003300,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user modify below information",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_modify_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "email",
+                  "telephone"
+                ]
+              },
+              {
+                "cells": [
+                  "john",
+                  "doe",
+                  "ja123456@wix.com",
+                  "1234567891"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2866584000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user click on continue button",
+            "match": {
+              "location": "step.definitions.RetailStepDefinitions.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2091725300,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "user should see a message \u0027Success: Your account has been successfully updated.\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Success: Your account has been successfully updated.\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "step.definitions.RetailStepDefinitions.user_should_see_a_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test1"
+          }
+        ]
+      }
+    ],
+    "name": "Retail Website",
+    "description": "",
+    "id": "retail-website",
+    "keyword": "Feature",
+    "uri": "classpath:feature/RetailPage.feature",
+    "tags": [
+      {
+        "name": "@test1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
